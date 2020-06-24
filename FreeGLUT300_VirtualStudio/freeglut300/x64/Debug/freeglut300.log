@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (freegluf300.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+c:\users\haha\desktop\test\lazy-package\freeglut300_virtualstudio\freeglut300\main.cpp(40): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\haha\desktop\test\lazy-package\freeglut300_virtualstudio\freeglut300\main.cpp(41): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  freeglut300.vcxproj -> C:\Users\Haha\Desktop\test\lazy-package\FreeGLUT300_VirtualStudio\x64\Debug\freeglut300.exe
