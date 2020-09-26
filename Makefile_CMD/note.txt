@@ -1,0 +1,8 @@
+gcc 檔案名稱
+編譯出-o檔案
+
+
+
+mingw32-make
+執行makefile檔案
+縮排一定要用tab
